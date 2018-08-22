@@ -1,0 +1,109 @@
+
+body{
+  background:#000000 url("https://subtlepatterns.com/patterns/mochaGrunge.png");
+  color:#000000;
+ font-family:Comic Sans;
+ font-size:1em;
+ max-height:100%;
+ }
+
+nav ul{
+  text-align:center;
+  list-style: none;
+}
+
+nav li{
+  display: inline-block;
+  padding: 0.1em;
+  vertical-allign: center;
+}
+
+a{
+  text-decoration: none;  
+  color: #6F6D6D;
+  font-weight: bold;
+}
+
+a:hover {
+  color: #6F6D6D;
+  font-weight:bold;
+}
+
+nav a{
+  background: #FFFFF;
+  border: 0.1em solid #57ABB8;
+  border-radius: 0.25em;
+  color: #FFFFFF;
+  display: block;
+  font-family: Comic Sans;
+  font-size: 1.4em;
+  padding: 0.2em;
+}
+
+nav a:hover {
+  background: #000000;
+  border: 0.1em dashed #C60C0C; 
+  border-radius: 0 0.2em 0 0.2em;
+  color: #FFFFFF;
+}
+
+img{
+  width: 23%;
+  height: 23%;
+}
+
+aside{
+  width: 30%;
+}
+
+h1{
+  color:#FFFFFF;
+  text-align:center;
+  font-family:Comic Sans;
+  font-size:70px;
+}
+
+div{
+  background: #232c42;
+  border: 0.1em solid #57ABB8;
+  border-radius: 0.25em;
+  color: #FFFFFF;
+  display: block;
+  font-family: Comic Sans;
+  font-size: 1.4em;
+  padding: 0.2em;
+}
+
+h2{
+  color: #90acd1;
+  text-align: center;
+  text-decoration: underline;
+  font-family: Tahoma, Geneva, sans-serif;
+  font-size: 40px;
+}
+
+h3{
+  color: #a1bbdd;  
+  font-family: Comic Sans, sans-serif;
+  text-align: justify;
+  padding-left: 40px; 
+  padding-right: 40px; 
+  padding-bottom: 10px; 
+  font-size: 20px;
+}
+
+h4{
+  color: #c0cee0;  
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  text-align: right;
+  padding-right: 40px; 
+  font-size: 25px;
+}
+
+}
+.foto {
+  float: left;
+  margin: 10px;
+  height: 180px;
+  overflow: hidden;
+}
